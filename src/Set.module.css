@@ -1,3 +1,4 @@
+
 .set{
     background-color: rgb(196, 196, 196);
     height: 50%;
@@ -12,9 +13,16 @@
 .input{
     height: 20px;
     width: 150px;
+    margin: 7px;
+    background-color: rgb(214, 211, 211);
+    border-radius: 5px;
+    outline: none;
 }
 
 .button{
-    height: 20px;
+    height: 30px;
     width: 120px;
+    background-color: rgb(125, 231, 111);
+    margin: 5px;
+    border-radius: 5px;
 }
