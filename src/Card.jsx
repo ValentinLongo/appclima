@@ -1,7 +1,6 @@
 import Styles from "./Card.module.css"
 import Get from "./Get"
 import Set from "./Set"
-import { WEATHER_KEY } from "./key";
 import React, { Component } from 'react';
 import Styless from './App.module.css';
 
